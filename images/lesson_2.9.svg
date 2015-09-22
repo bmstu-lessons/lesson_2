@@ -109,7 +109,7 @@ T4ABAOmT04pSHHlPAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 -0.24 -16.1799 16.6
 <text transform="matrix(1 0 0 1 227.4467 109.0001)" class="st1 st2">ES</text>
 <text transform="matrix(1 0 0 1 243.4464 109.0001)" class="st3 st4 st5">(Extra Segment)</text>
 <text transform="matrix(1 0 0 1 227.4467 129.0001)" class="st1 st2">FS</text>
-<text transform="matrix(1 0 0 1 247.4467 129.0001)" class="st1 st2">GS</text>
+<text transform="matrix(1 0 0 1 227.4467 149.0001)" class="st1 st2">GS</text>
 <rect x="125.7" y="34.5" class="st6" width="88.6" height="90.6"/>
 <use xlink:href="#cell"  width="34.4" height="33.4" x="-17.2" y="-16.7" transform="matrix(1 0 0 -1 158.1801 88.602)" style="overflow:visible;"/>
 <use xlink:href="#cell"  width="34.4" height="33.4" x="-17.2" y="-16.7" transform="matrix(1 0 0 -1 187.1801 88.602)" style="overflow:visible;"/>
@@ -128,8 +128,4 @@ T4ABAOmT04pSHHlPAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 -0.24 -16.1799 16.6
 <line class="st8" x1="100.7" y1="30.5" x2="100.7" y2="34.5"/>
 <line class="st8" x1="60.7" y1="30.5" x2="60.7" y2="34.5"/>
 <text transform="matrix(1 0 0 1 103.0654 67.5774)" class="st3 st1 st5">16</text>
-<text transform="matrix(1 0 0 1 48.1615 193.4776)" class="st1 st2">TR</text>
-<text transform="matrix(1 0 0 1 68.1615 193.4776)" class="st3 st4 st5">(Task Register)</text>
-<text transform="matrix(1 0 0 1 47.6421 213.4778)" class="st1 st2">R8 - R15</text>
-<text transform="matrix(1 0 0 1 48.5406 233.4781)" class="st1 st2">C0 - C4</text>
 </svg>
