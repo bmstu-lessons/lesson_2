@@ -7,3 +7,4 @@
 
  - [Устройство и принцип работы процессора](http://all-ht.ru/inf/pc/cp_struct.html)
  - [MMU в картинках](http://habrahabr.ru/post/211150/)
+ - [SMM](http://habrahabr.ru/post/267197/)
